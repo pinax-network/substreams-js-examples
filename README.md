@@ -3,14 +3,15 @@
 ## Requirements
 
 - [Node.js (LTS or Current)](https://nodejs.org/en/)
+- [Bun](https://bun.com/) >= 1.4.3
 
 ## Quickstart
 
 ```bash
 $ git clone https://github.com/EOS-Nation/substreams-js-examples.git
 $ cd substreams-js-examples
-$ npm install
-$ npm start
+$ bun install
+$ bun run start
 
 Downloading: https://eos.mypinata.cloud/ipfs/Qmdf7GT6jaT9NB3XPLvss8YxuHiSAC1PP1xm9UqLbuouYT
 Download completed: https://eos.mypinata.cloud/ipfs/Qmdf7GT6jaT9NB3XPLvss8YxuHiSAC1PP1xm9UqLbuouYT
